@@ -36,6 +36,9 @@ Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encont
   Uso un gamepad chino, estilo PS2 con un dongle usb inalámbrico.
 
   <br>
+  
+   <a href="https://www.google.com/search?q=Mando+inal%C3%A1mbrico+de+2%2C4+Ghz%2C+controlador+de+juego+sin+retraso%2C+Joystick+USB+para+PC%2C+Android%2C+TV%2C+Control+para+PC%2C+caja+de+juego&sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES1074&udm=3&biw=2133&bih=1058&sxsrf=ANbL-n6PU8echFQCO8wBtHm4eZNVLBV2Pw%3A1770375266460&ei=YsiFabfqG7aakdUPp-CAuQY&ved=0ahUKEwi3o4Hn2cSSAxU2TaQEHScwIGcQ4dUDCBM&uact=5&oq=Mando+inal%C3%A1mbrico+de+2%2C4+Ghz%2C+controlador+de+juego+sin+retraso%2C+Joystick+USB+para+PC%2C+Android%2C+TV%2C+Control+para+PC%2C+caja+de+juego&gs_lp=Ehlnd3Mtd2l6LW1vZGVsZXNzLXByb2R1Y3RzIoIBTWFuZG8gaW5hbMOhbWJyaWNvIGRlIDIsNCBHaHosIGNvbnRyb2xhZG9yIGRlIGp1ZWdvIHNpbiByZXRyYXNvLCBKb3lzdGljayBVU0IgcGFyYSBQQywgQW5kcm9pZCwgVFYsIENvbnRyb2wgcGFyYSBQQywgY2FqYSBkZSBqdWVnbzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ivDVDwBVjwBXADeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgOgAhGYAwCIBgGQBgiSBwEzoAcAsgcAuAcAwgcDMi0zyAcNgAgA&sclient=gws-wiz-modeless-products"> Gamepad usb dongle</a>
+   <br>
   <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/gamepad.png" alt="gamepad">
  
 - Otras cosas:
