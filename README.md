@@ -13,8 +13,10 @@ Es una modificación del chasis de este proyecto. https://www.thingiverse.com/th
 
 # Motores
 Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encontrarlos por 1.5€ en Aliexpress
-
+ <br> 
 <a href="https://www.google.com/search?sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES1074&sxsrf=ANbL-n4puLk6CaHhDCENbZ83M7k5YfG-kA:1770372856222&udm=3&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpnyrA7Lr8xjYKXtjgfGg2X7YjC8BHEJzeTXuyVovnIJWAJuX9D4henRJcFOeMtA7fnsVfdQe9m-npc8dksxThY4kYYVB_3JZU0nHqyFrfrSJxAmllgZgStteenKmClS9bfZRiTSjRk6q6pmw2-QGzD55K-tkgCvh0GyqG85MSicRht6CZbNghYgamC4mpr_zC7RS1C2Q&q=sg+90+360&sa=X&ved=2ahUKEwix_tvp0MSSAxXyOPsDHQb-OX8Qs6gLegQIEhAB&biw=1920&bih=953&dpr=1"> Microservo sg90 360 grados</a>
+ <br> 
+  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/migro%20servo%20sg90%20360.png" alt="gamepad">
 
 # Electrónica
 - Microcontrolador.
