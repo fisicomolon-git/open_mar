@@ -23,14 +23,15 @@ Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encont
   
 - Dc-Dc Converter.
   Como en el proyecto uso dos pilas AA, necesito convertir un Dc-Dc step up para subir a 5V para hacer funcionar el microcontrolador y alimentar el dongle USB. El más barato que he econtrado es este.
-  Módulo de potencia elevador de 0,9-5V a 5V DC-DC
+  Módulo de potencia elevador de 0,9-5V a 5V DC-DC.  Como maneja poco amperaje tengo que poner 2 en paralelo y aún así sigue siendo la solución más barata que funciona.
   <br>
-  
-   <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/dc-dc.png" alt="gamepad">
    <a href="https://www.google.com/search?sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES1074&sxsrf=ANbL-n7ymnbotuRaO6W5IAB0rOsBtQgO6A:1770373248920&udm=3&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTQJsEgZIYkjbgWUViY9fymDXzEJcyFKhH_lCR1_gOJpz8FY89bbDR--thMDInwvG0_xsaWhZzPYNxyTgN9gR7AV7ofYlIblN19-AOG4NS3QhZ1xwjB-EieWEZBAmnTP_xB16xgo70afZpl1CTq9A9SrS_ZyZ2Aa-1cX7kGUAeATflwvFlw&q=M%C3%B3dulo+de+potencia+elevador+de+0,9-5V+a+5V+DC-DC&sa=X&ved=2ahUKEwiasvyk0sSSAxUHNvsDHQJyM48Qs6gLegQIFRAB&biw=1920&bih=953&dpr=1"> D-dc Step up converter</a>
+    <br>
+   <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/dc-dc.png" alt="gamepad">
+  
    
   
-  Como maneja poco amperaje tengo que poner 2 en paralelo y aún así sigue siendo la solución más barata que funciona.
+
 - GamePad
   Uso un gamepad chino, estilo PS2 con un dongle usb inalámbrico.
 
