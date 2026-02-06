@@ -9,7 +9,7 @@ Contiene tanto los archivos STL para imprimir las partes necesarias, como el Có
 
 
 # Chasis
-El chasis puedes imprimirlo en 3d. Tienes las STL aquí.
+El chasis puedes imprimirlo en 3d. Tienes las STL <a href="https://github.com/fisicomolon-git/open_mar/tree/main/stl">aquí</a>
 Es una modificación del chasis de este proyecto. https://www.thingiverse.com/thing:3666476
  <br> 
 <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/chasis.png" alt="gamepad">
