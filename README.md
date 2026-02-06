@@ -5,6 +5,7 @@ Este proyecto comparte todos los archivos necessarios para montar un robot móvi
 Contiene tanto los archivos STL para imprimir las partes necesarias, como el Código de programación los esquemas eléctricos, con los componentes usados.
 
 # Fotos
+  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/robot%20lateral.jpg" alt="gamepad">
 
 
 # Chasis
