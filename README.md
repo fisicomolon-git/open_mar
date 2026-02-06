@@ -27,6 +27,7 @@ https://www.google.com/search?sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES107
   Como maneja poco amperaje tengo que poner 2 en paralelo y aún así sigue siendo la solución más barata que funciona.
 - GamePad
   Uso un gamepad chino, estilo PS2 con un dongle usb inalámbrico.
-  https://github.com/fisicomolon-git/open_mar/blob/main/images/gamepad.png?raw=true
+  <img src=" https://github.com/fisicomolon-git/open_mar/blob/main/images/gamepad.png?raw=true" alt="gamepad">
+ 
 - Otras cosas:
   Cables, interruptores, conectores, etc. Dejo aquí enlaces varios.
