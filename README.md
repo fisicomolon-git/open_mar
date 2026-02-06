@@ -5,12 +5,15 @@ Este proyecto comparte todos los archivos necessarios para montar un robot móvi
 Contiene tanto los archivos STL para imprimir las partes necesarias, como el Código de programación los esquemas eléctricos, con los componentes usados.
 
 # Fotos
-  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/robot%20lateral.jpg" alt="gamepad">
+  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/robot%20lateral.jpg" alt="Lateral">
 
 
 # Chasis
 El chasis puedes imprimirlo en 3d. Tienes las STL aquí.
 Es una modificación del chasis de este proyecto. https://www.thingiverse.com/thing:3666476
+ <br> 
+<img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/chasis.png" alt="gamepad">
+
 
 # Motores
 Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encontrarlos por 1.5€ en Aliexpress
