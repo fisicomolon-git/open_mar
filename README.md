@@ -19,8 +19,11 @@ Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encont
 # Electrónica
 - Microcontrolador.
   He usado el micro más barato que he econtrado y que además hace algo que otros más caros no hacen que es leer el puerto usb de un gamepad, para así tambien poder controlarlo remotamente. Uso un Rp2040 micro A día de hoy lo puedes encontrar por 1.5€ en Aliexpress
-  https://www.google.com/search?q=rp2040+zero&sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES1074&udm=3&biw=1920&bih=953&sxsrf=ANbL-n67X99kl1HQvHJLif4RlhKf75JT4A%3A1770372874189&ei=Cr-FaaqkC5ns7M8PwtGpqQI&ved=0ahUKEwiq0aTy0MSSAxUZNvsDHcJoKiUQ4dUDCBM&uact=5&oq=rp2040+zero&gs_lp=Ehlnd3Mtd2l6LW1vZGVsZXNzLXByb2R1Y3RzIgtycDIwNDAgemVybzIFEAAYgAQyBhAAGBYYHkidJlDDCFjIJHADeACQAQCYAZUBoAHoCqoBBDAuMTG4AQPIAQD4AQGYAg6gAtELwgINEAAYgAQYsAMY1gUYDcICDBAAGLADGNYFGA0YHsICCRAAGLADGA0YHsICBBAAGB6YAwCIBgGQBgqSBwQzLjExoAevJLIHBDAuMTG4B74LwgcHMC4yLjguNMgHUIAIAA&sclient=gws-wiz-modeless-products
-  
+   <br>
+    <a href="  https://www.google.com/search?q=rp2040+zero&sca_esv=ddb7776553fb21fe&rlz=1C1UEAD_esES1074ES1074&udm=3&biw=1920&bih=953&sxsrf=ANbL-n67X99kl1HQvHJLif4RlhKf75JT4A%3A1770372874189&ei=Cr-FaaqkC5ns7M8PwtGpqQI&ved=0ahUKEwiq0aTy0MSSAxUZNvsDHcJoKiUQ4dUDCBM&uact=5&oq=rp2040+zero&gs_lp=Ehlnd3Mtd2l6LW1vZGVsZXNzLXByb2R1Y3RzIgtycDIwNDAgemVybzIFEAAYgAQyBhAAGBYYHkidJlDDCFjIJHADeACQAQCYAZUBoAHoCqoBBDAuMTG4AQPIAQD4AQGYAg6gAtELwgINEAAYgAQYsAMY1gUYDcICDBAAGLADGNYFGA0YHsICCRAAGLADGA0YHsICBBAAGB6YAwCIBgGQBgqSBwQzLjExoAevJLIHBDAuMTG4B74LwgcHMC4yLjguNMgHUIAIAA&sclient=gws-wiz-modeless-products"> D-dc Rp2040 zero</a>
+   <br> 
+    <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/rp2040.png" alt="gamepad">
+
 - Dc-Dc Converter.
   Como en el proyecto uso dos pilas AA, necesito convertir un Dc-Dc step up para subir a 5V para hacer funcionar el microcontrolador y alimentar el dongle USB. El más barato que he econtrado es este.
   Módulo de potencia elevador de 0,9-5V a 5V DC-DC.  Como maneja poco amperaje tengo que poner 2 en paralelo y aún así sigue siendo la solución más barata que funciona.
