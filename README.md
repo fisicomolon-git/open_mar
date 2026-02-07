@@ -50,12 +50,12 @@ Usa dos servomotores sg90 de 360 grados de rotación. A dia de hoy puedes encont
  
 - Otras cosas:
 
-  Cables, interruptores, conectores, etc. Dejo aquí enlaces varios.
-  Junta de goma toroidal de 3mm de grosor y 32 mm de diamétro. Estas las compre en la tienda de ferreteria de mi barrio.   <br>
-   <img src=" https://github.com/fisicomolon-git/open_mar/blob/main/images/junta%20toroidal%20goma.png" alt="gamepad">
+  Cables, interruptores, conectores, etc. Dejo aquí enlaces varios.<br>
+  Junta de goma toroidal de 3mm de grosor y 32 mm de diamétro. Estas las compre en la tienda de ferreteria de mi barrio.<br>   
+   <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/junta%20toroidal%20goma.png" alt="gamepad">
 
    Conector macho hembra para conectar las pilas a la placa. Esto es opcional, puedes hacer esta conexión de muchas formas.   <br>
-  <img src="  https://github.com/fisicomolon-git/open_mar/blob/main/images/power%20conector.png" alt="gamepad">
+  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/power%20conector.png" alt="gamepad">
 
   Pequeño interruptor para cortar la corriente de las pilas y así apagar el robot.   <br>
  <img src="https://github.com/fisicomolon-git/open_mar/blob/main/images/interruptor%20pequeno_2.png" alt="gamepad">
