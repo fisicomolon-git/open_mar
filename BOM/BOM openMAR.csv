@@ -1,0 +1,11 @@
+Categoría,Componente,Cantidad,Notas
+Chasis,Archivos STL para impresión 3D,1,Modificación de Thingiverse 3666476 [1]
+Motores,Servomotores SG90 360 grados,2,Rotación continua [2]
+Microcontrolador,RP2040 Zero,1,Soporta lectura de puerto USB para gamepad [2]
+Electrónica,Convertidor DC-DC Step-up (0.9-5V a 5V),2,Instalados en paralelo para mayor amperaje [2]
+Control,Gamepad inalámbrico estilo PS2,1,Incluye dongle USB inalámbrico [2]
+Neumáticos,Juntas tóricas de goma (O-rings),2,3mm de grosor y 32mm de diámetro [2]
+Alimentación,Pilas AA,2,Fuente de energía base [2]
+Alimentación,Interruptor pequeño,1,Para corte de corriente [2]
+Conectividad,Conector macho-hembra,1,Para conexión de pilas (opcional) [2]
+Misceláneos,Cables y conectores,Varios,Para el cableado general del robot [2]
